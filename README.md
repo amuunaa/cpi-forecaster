@@ -6,4 +6,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live app
-(put your Streamlit Cloud URL here after you deploy)
+https://cpi-forecaster.streamlit.app
